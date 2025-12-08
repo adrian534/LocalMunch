@@ -1,0 +1,47 @@
+# Archivos generados por Android Studio y Gradle
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/libraries
+.DS_Store
+build/
+**/*.iml
+.idea/caches/
+.idea/libraries/
+.idea/codeStyles/
+.idea/runConfigurations.xml
+.idea/modules.xml
+
+# Directorios de compilación (build artifacts)
+/build
+/captures
+/externalBuild
+/prebuild
+/tmp
+
+# Archivos de configuración local (IDE)
+/android/local.properties
+/android/.gradle
+/android/.idea
+/android/*.iml
+/android/build
+
+# Key store files
+*.jks
+*.p12
+
+# Archivos específicos de Android
+/gradle/wrapper/gradle-wrapper.properties
+/app/build
+/app/*.log
+/app/src/main/assets/
+/app/src/main/res/raw/
+/app/src/main/res/values/strings.xml
+/app/src/main/res/values/secret_keys.xml
+
+# Archivos de Firebase
+google-services.json
+
+# Logs
+*.log
