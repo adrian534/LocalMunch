@@ -88,7 +88,7 @@ Si deseas contribuir, sigue los siguientes pasos:
 
 ## 📧 Contacto
 
-Desarrollado por: **[Tu Nombre o Equipo de Desarrollo]**
+Desarrollado por: **Joel Adrian Caballero Lugo y Miguel Lozano Arvizu**
 
 Si tienes preguntas o sugerencias: `localmunch30@gmail.com`
 
